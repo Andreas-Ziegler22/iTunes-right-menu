@@ -43,8 +43,7 @@ p:hover {
   cursor: default;
 }
 .extern {
-  /* height: 50px; */
-
+  /* display: none; */
   margin-left: 1px;
   width: 175px;
   border: 1px solid #6d6b65;
