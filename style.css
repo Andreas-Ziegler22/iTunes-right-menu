@@ -3,6 +3,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   background-color: steelblue;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 p {
@@ -36,6 +37,7 @@ p {
   margin: 2px;
 }
 .extern {
+  display: flex;
   visibility: visible;
   /* visibility: hidden; */
   margin-left: 1px;
@@ -55,4 +57,7 @@ i {
 p:hover {
   background-color: darkslategray;
   cursor: default;
+}
+.child{
+  display: inline-block;
 }

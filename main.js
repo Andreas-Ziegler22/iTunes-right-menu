@@ -54,6 +54,6 @@ function mouseOver() {
   document.getElementsByClassName("extern")[0].style.visibility = "visible";
 }
 
-function mouseOut() {
-  document.getElementsByClassName("extern")[0].style.visibility = "hidden";
-}
+// function mouseOut() {
+//   document.getElementsByClassName("extern")[0].style.visibility = "hidden";
+// }
