@@ -36,8 +36,8 @@ p {
   margin: 2px;
 }
 .extern {
-  /* visibility: visible; */
-  visibility: hidden;
+  visibility: visible;
+  /* visibility: hidden; */
   margin-left: 1px;
   width: 175px;
   border: 1px solid #6d6b65;
